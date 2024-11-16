@@ -53,7 +53,7 @@ def main():
             print(f"Decrypted message: {decrypted_message}")
         elif choice == '3':
             print("Exiting program.")
-            print("Coded by Samadhan Barahate!")
+            print("Coded by Sarang kavade!")
             break
         else:
             print("Invalid choice. Please enter 1, 2, or 3.")
