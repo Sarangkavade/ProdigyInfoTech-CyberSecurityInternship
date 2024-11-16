@@ -54,7 +54,7 @@ def main():
             encrypt_decrypt_image(image_path, shift, encrypt=False)
         elif choice == '3':
             print("Exiting program.")
-            print("Coded by SAMADHAN BARAHATE!")
+            print("Coded by SARANG KAVADE!")
             break
         else:
             print("Invalid choice. Please enter 1, 2, or 3.")
